@@ -1,0 +1,1 @@
+word_list = ['dog', 'cat', 'elephant', 'lion', 'tiger', 'giraffe', 'zebra', 'panda', 'bear', 'kangaroo', 'koala', 'horse', 'rabbit', 'dolphin', 'whale', 'shark', 'octopus', 'penguin', 'cheetah', 'wolf']
